@@ -10,6 +10,8 @@
 </div>
 
 ---
+**Release Descarga:** [Release](https://github.com/xyvenqorix/GoWRoyPC_Port/releases/tag/GoWRoyPC)
+
 
 ## 🖼️ Iamage
 
@@ -34,7 +36,7 @@ Ambientado cronológicamente entre *God of War: Ghost of Sparta* y *God of War I
 
 ## 🚀 Cómo Jugar
 
-1. Descarga el archivo **`GoW_PC_Port.exe`** desde la sección de [Releases]([../../releases](https://github.com/xyvenqorix/GoWRoyPC_Port/releases/tag/GoWRoyPC)) de este repositorio.
+1. Descarga el archivo **`GoW_PC_Port.exe`** 
 2. Colócalo en cualquier carpeta de tu PC (recomendado crear una carpeta dedicada en tu Escritorio o Documentos).
 3. Haz doble clic en **`GoW_PC_Port.exe`** (si Windows SmartScreen muestra un aviso por ser un ejecutable independiente, haz clic en *"Más información"* -> *"Ejecutar de todas formas"*).
 4. Pulsa el botón **`▶ INICIAR BATALLA`** y disfruta del juego.
