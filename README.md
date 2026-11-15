@@ -11,6 +11,13 @@
 
 ---
 
+## 🖼️ Iamage
+
+<p align="center">
+  <img src="https://i.ibb.co/ZpnyFG4p/god.png" alt="Captura del Port en PC" width="85%"/>
+</p>
+
+
 ## ⚔️ Acerca del Proyecto
 
 **God of War: Betrayal (PC Port)** es una adaptación independiente empaquetada para ejecutarse de manera directa, fluida y sin instalaciones complejas en ordenadores con Windows. 
